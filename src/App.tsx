@@ -12,6 +12,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Layout />}>
+            <Route index element ={<Weather />} />
             <Route path='Weather' element={<Weather />} />
             <Route path='WeatherV1' element={<WeatherV1 />} />
             <Route path='WeatherV2' element={<WeatherV2 />} />
