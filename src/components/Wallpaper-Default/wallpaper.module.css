@@ -1,0 +1,31 @@
+.weather {
+  position: absolute;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 500px;
+  padding-top: 10px;
+
+}
+
+.theme img {
+  position: relative;
+  width: 350px;
+  height: auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  border: 100px;
+}
+
+
+
+.menu {
+  position: relative;
+  width: 100px;
+  left: 125px;
+  bottom: 23px;
+  height: 3px;
+  background:#f7cbfd;
+  border-radius: 20px;
+  opacity: 0.5;
+}

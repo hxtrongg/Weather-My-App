@@ -1,0 +1,77 @@
+.weatherV2 {
+  position: relative;
+  top: 79px;
+  left: 538px;
+}
+
+.weatherV2 > h1 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #fff;
+  margin-left: -17px;
+}
+
+.weatherV2 > p {
+  color: #fff;
+  position: relative;
+  right: 20px;
+  bottom: 17px;
+}
+
+.weatherV2 > input {
+  position: relative;
+  right: 18px;
+  max-width: 310px;
+  height: 30px;
+  /* border: 2px solid #fff; */
+  border-radius: 20px;
+}
+
+.content {
+  display: block;
+  padding-top: 10px;
+}
+
+.content > ul > li {
+  background-image: url('../../assets/image/backgroud-bautroi.png');
+  opacity: 0.9;
+  color: #fff;
+  border-radius: 20px;
+  max-width: 307px;
+  max-height: 90px;
+  position: relative;
+  right: 17px;
+  margin-bottom: 10px;
+}
+
+.item_left {
+  position: relative;
+  top: 10px;
+  left: 7px;
+  max-width: 150px;
+}
+
+.item_left > h2 {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.item_left > p {
+  font-size: 15px;
+  font-weight: 300;
+  margin-top: 3px;
+}
+
+.item_right {
+  position: relative;
+  bottom: 80px;
+  left: 235px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.content > ul > li > p {
+  color: #fff;
+  margin-top: 10px;
+}
+

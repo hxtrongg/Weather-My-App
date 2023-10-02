@@ -1,0 +1,21 @@
+
+.icon  img {
+  position: relative;
+  top: 300px;
+  left: 645px;
+  width: 60px;
+  height: auto;
+  border-radius: 20px;
+  border: 2px solid #fff;
+  display: block;
+  border: 100px;
+  box-shadow: 1px solid rgba(0, 0, 0, 0.8);
+}
+
+.icon h3 {
+  position: absolute;
+  bottom: 330px;
+  left: 650px;
+  color: #fff;
+  font-weight: 400;
+}
